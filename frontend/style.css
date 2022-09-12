@@ -1,0 +1,19 @@
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.imref{
+  margin-top: -8px;
+}
+.topnav a.split {
+  float: right;
+}
+.round{
+  border-radius: 50%;
+  background-color: black;
+}
